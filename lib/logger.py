@@ -19,4 +19,3 @@ class Log4j:
 
     def debug(self, message):
         self.logger.debug(message)
-
